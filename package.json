@@ -1,6 +1,6 @@
 {
-	"name": "soliseum2.0.github.io",
-	"version": "0.1.0",
+	"name": "soliseum.github.io",
+	"version": "0.7.0",
 	"private": true,
 	"homepage": "https://soliseum.github.io/",
 	"dependencies": {
