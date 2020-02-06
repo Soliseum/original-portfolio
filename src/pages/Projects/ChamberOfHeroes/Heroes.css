@@ -1,0 +1,7 @@
+.interactiveHover {
+	transition: all 1s;
+}
+
+.interactiveHover:hover {
+	transform: scale(1.15);
+}
