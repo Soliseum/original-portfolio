@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.73398e57.chunk.css",
-    "main.js": "/static/js/main.0bc6039f.chunk.js",
-    "main.js.map": "/static/js/main.0bc6039f.chunk.js.map",
+    "main.js": "/static/js/main.2d521422.chunk.js",
+    "main.js.map": "/static/js/main.2d521422.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2cfca230.js",
     "runtime-main.js.map": "/static/js/runtime-main.2cfca230.js.map",
     "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.cac189b6.chunk.js": "/static/js/2.cac189b6.chunk.js",
-    "static/js/2.cac189b6.chunk.js.map": "/static/js/2.cac189b6.chunk.js.map",
+    "static/js/2.466c63d2.chunk.js": "/static/js/2.466c63d2.chunk.js",
+    "static/js/2.466c63d2.chunk.js.map": "/static/js/2.466c63d2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.32802b268a79d1accc27a15173ba7d23.js": "/precache-manifest.32802b268a79d1accc27a15173ba7d23.js",
+    "precache-manifest.dc409d3d5931f39ee6282f4fa8a0ab39.js": "/precache-manifest.dc409d3d5931f39ee6282f4fa8a0ab39.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.73398e57.chunk.css.map": "/static/css/main.73398e57.chunk.css.map",
-    "static/js/2.cac189b6.chunk.js.LICENSE.txt": "/static/js/2.cac189b6.chunk.js.LICENSE.txt",
+    "static/js/2.466c63d2.chunk.js.LICENSE.txt": "/static/js/2.466c63d2.chunk.js.LICENSE.txt",
     "static/media/Atomic-Code-Logo_79x79.png": "/static/media/Atomic-Code-Logo_79x79.49c4daba.png",
     "static/media/Colourful-night-sky-with-fictional-planet-stars-nebula.jpg": "/static/media/Colourful-night-sky-with-fictional-planet-stars-nebula.a988a586.jpg",
+    "static/media/adventure-backlit-birds-443356.jpg": "/static/media/adventure-backlit-birds-443356.d2892dea.jpg",
     "static/media/ancient-architecture-building-892083.jpg": "/static/media/ancient-architecture-building-892083.0c7fbe07.jpg",
     "static/media/architecture-bookshop-ivo-rainha-1261177.jpg": "/static/media/architecture-bookshop-ivo-rainha-1261177.4681a15e.jpg",
     "static/media/beach-clouds-grass-451855.jpg": "/static/media/beach-clouds-grass-451855.023ed212.jpg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.2cfca230.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.cac189b6.chunk.js",
+    "static/js/2.466c63d2.chunk.js",
     "static/css/main.73398e57.chunk.css",
-    "static/js/main.0bc6039f.chunk.js"
+    "static/js/main.2d521422.chunk.js"
   ]
 }

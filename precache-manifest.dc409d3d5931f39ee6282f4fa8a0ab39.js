@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd156bd633e920769c6f724991402b87",
+    "revision": "c7db2d8650edfe76733f05826b68619f",
     "url": "/index.html"
   },
   {
-    "revision": "7755193de769ec2d493c",
+    "revision": "1b57794c7ce47e0b096c",
     "url": "/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "e9d8da03b20b1bd7b1df",
+    "revision": "ec6530c1e98f2ef69edc",
     "url": "/static/css/main.73398e57.chunk.css"
   },
   {
-    "revision": "7755193de769ec2d493c",
-    "url": "/static/js/2.cac189b6.chunk.js"
+    "revision": "1b57794c7ce47e0b096c",
+    "url": "/static/js/2.466c63d2.chunk.js"
   },
   {
     "revision": "11806732cf2a5be42564138123a58b9e",
-    "url": "/static/js/2.cac189b6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.466c63d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9d8da03b20b1bd7b1df",
-    "url": "/static/js/main.0bc6039f.chunk.js"
+    "revision": "ec6530c1e98f2ef69edc",
+    "url": "/static/js/main.2d521422.chunk.js"
   },
   {
     "revision": "ee6bbc841b07e7bf97fa",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a988a586e19089f22c65bfa9fea05e94",
     "url": "/static/media/Colourful-night-sky-with-fictional-planet-stars-nebula.a988a586.jpg"
+  },
+  {
+    "revision": "d2892dea8c31d404a162df604a05872f",
+    "url": "/static/media/adventure-backlit-birds-443356.d2892dea.jpg"
   },
   {
     "revision": "0c7fbe07af70ca424c6fe7f0729acfb6",
