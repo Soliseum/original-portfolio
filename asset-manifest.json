@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.73398e57.chunk.css",
-    "main.js": "/static/js/main.10d0f2e0.chunk.js",
-    "main.js.map": "/static/js/main.10d0f2e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2cfca230.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2cfca230.js.map",
+    "main.js": "/static/js/main.5243b127.chunk.js",
+    "main.js.map": "/static/js/main.5243b127.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a537a6f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a537a6f0.js.map",
     "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.66665877.chunk.js": "/static/js/2.66665877.chunk.js",
-    "static/js/2.66665877.chunk.js.map": "/static/js/2.66665877.chunk.js.map",
+    "static/js/2.ff8901bb.chunk.js": "/static/js/2.ff8901bb.chunk.js",
+    "static/js/2.ff8901bb.chunk.js.map": "/static/js/2.ff8901bb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4848f12a91bfce1bf96b0f632adb4fa1.js": "/precache-manifest.4848f12a91bfce1bf96b0f632adb4fa1.js",
+    "precache-manifest.3bf0966ddc853bd10a031498aef9abb5.js": "/precache-manifest.3bf0966ddc853bd10a031498aef9abb5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.73398e57.chunk.css.map": "/static/css/main.73398e57.chunk.css.map",
-    "static/js/2.66665877.chunk.js.LICENSE.txt": "/static/js/2.66665877.chunk.js.LICENSE.txt",
+    "static/js/2.ff8901bb.chunk.js.LICENSE.txt": "/static/js/2.ff8901bb.chunk.js.LICENSE.txt",
     "static/media/Atomic-Code-Logo_79x79.png": "/static/media/Atomic-Code-Logo_79x79.49c4daba.png",
     "static/media/Colourful-night-sky-with-fictional-planet-stars-nebula.jpg": "/static/media/Colourful-night-sky-with-fictional-planet-stars-nebula.a988a586.jpg",
     "static/media/adventure-backlit-birds-443356.jpg": "/static/media/adventure-backlit-birds-443356.d2892dea.jpg",
@@ -24,10 +24,10 @@
     "static/media/pig-swimming-bird-passenger-beach.jpg": "/static/media/pig-swimming-bird-passenger-beach.f8367098.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cfca230.js",
+    "static/js/runtime-main.a537a6f0.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.66665877.chunk.js",
+    "static/js/2.ff8901bb.chunk.js",
     "static/css/main.73398e57.chunk.css",
-    "static/js/main.10d0f2e0.chunk.js"
+    "static/js/main.5243b127.chunk.js"
   ]
 }
