@@ -1,5 +1,5 @@
 # File Structure to use to ease growth
-
+<!-- https://create-react-app.dev/docs/deployment/#github-pages -->
 # Developer A
 https://blog.bitsrc.io/structuring-a-react-project-a-definitive-guide-ac9a754df5eb
 	1) /src/Artist/index.js is <Artist />

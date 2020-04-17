@@ -10,22 +10,11 @@ import "tachyons";
 import soliseumLogo from "../../assets/images/soliseum-logo/Atomic-Code-Logo_79x79.png";
 import "./Routes.css";
 
-/***************************************************
- **** MAYBE HAVE ROUTE TOP NAV WITH TRANSPARENT ****
- **** BACKGROUND AND SOLISEUM-WHIRLING-SUN ICON ****
- **** TO NAVIGATE HOME ONLY TOP NAV STAYS SAME *****
- **** FOR QUICK WAY HOME. ALL ELSE CHANGES *********
- **** DEPENDING ON PROJECT CARD SELECTED ***********
- **** PLACE EVERYTHING HERE IN HOME EXCLUDING ******
- **** A TOP NAV WITH THE SUN ICON TO LINK BACK *****
- ***************************************************/
-
 /** Soliseum-Logo_144x85
  * OR SWITCH PAGES TO BE SELECTED IN PUBLIC FOLDERS index.html file
  */
 const routesStyle = {
-	link: "nav-item pa3 light-blue underline-hover",
-	bar: "bb bw1 b--black-20",
+	link: "nav-item pa3 light-blue dim",
 	image: "logo-img",
 };
 
@@ -33,37 +22,38 @@ const Routes = function() {
 	return (
 		<Router>
 			<div>
-				<div className="routes-container f3 fw6 db light-blue ma3 pb4">
+				<div className="routes-container f3 fw6 db light-blue pa3 pb4">
+					{" "}
+					{/** bb bw1 b--black-10 */}
 					<img src={soliseumLogo} className={routesStyle.image} title="Logo" alt="Logo" />
 					<Link className={routesStyle.link} to="/">
 						Soliseum
 					</Link>
-					<Link className={routesStyle.link} to="/Discover">
-						Discover
+					<Link className={routesStyle.link} to="/Projects">
+						Projects
 					</Link>
 					<Link className={routesStyle.link} to="/Gallery">
 						Gallery
 					</Link>
-					<Link className={routesStyle.link} to="/Projects">
-						Projects
+					<Link className={routesStyle.link} to="/Discover">
+						Discover
 					</Link>
 					<Link className={routesStyle.link} to="/Travels">
 						Travels
 					</Link>
-					<hr className={routesStyle.bar} />
 				</div>
 				<Switch>
 					<Route exact path="/">
 						<Home />
 					</Route>
-					<Route path="/Discover">
-						<Discover />
+					<Route path="/Projects">
+						<Projects />
 					</Route>
 					<Route path="/Gallery">
 						<Gallery />
 					</Route>
-					<Route path="/Projects">
-						<Projects />
+					<Route path="/Discover">
+						<Discover />
 					</Route>
 					<Route path="/Travels">
 						<Travels />

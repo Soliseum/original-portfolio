@@ -25,8 +25,8 @@
 }
 
 .flex-card {
-	min-width: 300px;
-	max-width: 300px;
+	min-width: 280px;
+	max-width: 280px;
 	min-height: 400px;
 	max-height: 400px;
 }
@@ -38,4 +38,8 @@ a {
 .image-card {
 	width: 180px;
 	height: 180px;
+}
+
+.border-gradient {
+	border-color: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
