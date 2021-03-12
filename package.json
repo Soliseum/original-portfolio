@@ -2,7 +2,7 @@
 	"name": "soliseum.github.io",
 	"version": "0.7.1",
 	"private": true,
-	"homepage": "https://soliseum.github.io",
+	"homepage": "https://soliseum.github.io/original-portfolio",
 	"dependencies": {
 		"animate.css": "^3.7.2",
 		"antd": "^4.0.3",
